@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "student-ba279": {
+      "hosting": {
+        "student": [
+          "student-ba279"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "student-ba279"
+  }
+}
